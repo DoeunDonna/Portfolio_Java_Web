@@ -1,0 +1,82 @@
+@charset "UTF-8";
+	*{	padding:0;
+		margin:0;}
+	a{text-decoration: none;}
+	#cookmeList{
+		margin:0 auto;
+		overflow: hidden;
+		width:1500px;
+	}
+	#cookmeList #button{
+		float:right;
+	}
+	#cookmeList #cookme{
+		float:left;
+		width:950px;
+		height:930px;
+		margin-top:80px;
+		margin-left:30px;
+	}
+	#cookmeList #place{
+		font-family: 'Cute Font', cursive;
+		font-size: 2em;
+		width:950px;
+		color : #c69cf8;
+		text-align: center;
+		position:relative;
+		top:270px;
+	}
+		#cookmeList #cookme #writeAllow{
+			margin: 5px auto;
+			margin-bottom : 15px;
+			width: 99%;
+			background-color: #ffacac;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.4em;
+			border: 5px solid #ffbfbf;
+			border-radius: 50px;
+		}
+		#cookmeList #cookme #writeAllow tr .writecookme{
+			width:100%;
+			text-align: center;
+		}
+		#cookmeList #cookme #writeAllow tr .writecookme a{
+			color: white;
+		}
+		#cookmeList #cookme{
+			background-color: #ffd9d9;
+			border-radius: 20px;
+		}
+		#cookmeList #cookme #list{
+			margin:0 auto;
+		}
+		#cookmeList #cookme #list tr{
+			background-color: white;
+		}
+		#cookmeList #cookme #list #cbPic{
+			width:180px;
+			height:180px;
+			float:left;
+		}
+		#cookmeList #cookme #list tr td{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.2em;
+		}
+		#cookmeList #cookme #list tr #none{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.2em;
+			width:930px;
+			height:300px;
+			line-height:300px;
+			text-align:center;
+		}
+		#cookmeList .paging{
+			text-align: center;
+			color: #fa8383;
+		}
+		#cookmeList .paging a{
+			text-align: center;
+			color: #ffacac;
+		}

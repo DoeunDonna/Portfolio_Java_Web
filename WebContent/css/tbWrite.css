@@ -1,0 +1,81 @@
+@charset "UTF-8";
+*{	padding:0;
+		margin:0;}
+	a{text-decoration: none;}
+	#writeForm{
+		margin:0 auto;
+		overflow: hidden;
+		width:1500px;
+	}
+	#writeForm #button{
+		float:right;
+	}
+	#writeForm #writing{
+		float:left;
+		border:10px solid #ffd9d9;
+		border-radius: 30px;
+		width:900px;
+		background-color: white;
+		padding:20px;
+	}
+	#writeForm #writing #text{
+		margin:0 auto;
+		width:900px;
+		background-color: white;
+		padding:20px;
+	}
+	#writeForm #writing #text .form{
+		
+	}
+	#writeForm #writing th{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		width:100px;
+	}
+	#writeForm #writing td{
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+	}
+	#writeForm #writing .subject{
+		width:700px;
+		height:20px;
+		border: 2px solid #ffbfbf;
+	}
+	#writeForm #writing .context{
+		width:700px;
+		height:500px;
+		border: 2px solid #ffbfbf;
+		
+	}
+	#writeForm #writing #files{
+		border: 2px dashed #ffbfbf;
+		border-radius:50px;
+		margin:0 auto;
+		width: 700px;
+	}
+	#wirteForm #writing #fileInput{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+	}
+	#writeForm #writing #Buttons{
+		margin:20px auto;
+	}
+	#writeForm #writing tr .Btn{
+		margin:0 auto;
+		width:150px;
+		height:50px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.1em;
+		background-color: #ffacac;
+		color:white;
+		text-decoration: none;
+		border:0;
+		border: 5px solid #ffbfbf;
+		border-radius: 5px;
+	}
+	#writeForm #writing #Button{
+		width:200px;
+		height:150px;
+		text-align: center;
+	}

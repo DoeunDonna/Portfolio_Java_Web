@@ -1,0 +1,62 @@
+@charset "UTF-8";
+*{	padding:0;
+		margin:0;}
+a{text-decoration: none;}
+#cusModify{
+	margin:0 auto;
+	overflow: hidden;
+	width:1500px;
+}
+#cusModify #all{
+	margin:100px auto;
+		border:10px solid #ffd9d9;
+		border-radius: 30px;
+		width:1200px;
+		background-color: white;
+}
+#cusModify #member{
+		margin:30px auto;
+		width:1200px;
+		background-color: white;
+}
+#cusModify #member #caption{
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		height:100px;
+}
+#cusModify #member tr th{
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+}
+#cusModify #member tr td{
+		text-align: center;
+		height: 50px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+}
+#cusModify #Buttons{
+		margin:20px auto;
+	}
+#cusModify #Buttons .Btn{
+		margin:0 auto;
+		width:150px;
+		height:40px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		background-color: #ffacac;
+		color:white;
+		text-decoration: none;
+		border: 5px solid #ffbfbf;
+		border-radius: 5px;
+		text-align: center;
+	}
+#cusModify .paging{
+			text-align: center;
+			color: #fa8383;
+		}
+#cookmeList .paging a{
+			text-align: center;
+			color: #ffacac;
+		}

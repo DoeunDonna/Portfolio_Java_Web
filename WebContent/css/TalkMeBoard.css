@@ -1,0 +1,81 @@
+@charset "UTF-8";
+	*{	padding:0;
+		margin:0;}
+	a{text-decoration: none;}
+	#talkmeList{
+		margin:0 auto;
+		overflow: hidden;
+		width:1500px;
+	}
+	#talkmeList #button{
+		float:right;
+	}
+	#talkmeList #place{
+		font-family: 'Cute Font', cursive;
+		font-size: 2em;
+		width:950px;
+		color : #c69cf8;
+		text-align: center;
+		position:relative;
+		top:270px;
+	}
+	#talkmeList #talkme{
+		float:left;
+		width:950px;
+		height:520px;
+		margin-top:80px;
+		margin-left:30px;
+	}
+		#talkmeList #talkme #writeAllow{
+			margin: 5px auto;
+			margin-bottom : 15px;
+			width: 99%;
+			background-color: #ffacac;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.4em;
+			border: 5px solid #ffbfbf;
+			border-radius: 50px;
+		}
+		#talkmeList #talkme #writeAllow tr .writetalkme{
+			width:100%;
+			text-align: center;
+		}
+		#talkmeList #talkme #writeAllow tr .writetalkme a{
+			color: white;
+		}
+		#talkmeList #talkme{
+			background-color: #ffd9d9;
+			border-radius: 20px;
+		}
+		#talkmeList #talkme #list{
+			margin:0 auto;
+			width:940px;
+		}
+		#talkmeList #talkme #list tr{
+			background-color: white;
+		}
+		#talkmeList #talkme #list #tbPic{
+			width:180px;
+			height:180px;
+			float:left;
+		}
+		#talkmeList #talkme #list tr th{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.2em;
+			text-align: center;
+		}
+		#talkmeList #talkme #list tr td{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.2em;
+			text-align: center;
+		}
+		#talkmeList .paging{
+			text-align: center;
+			color: #fa8383;
+		}
+		#talkmeList .paging a{
+			text-align: center;
+			color: #ffacac;
+		}

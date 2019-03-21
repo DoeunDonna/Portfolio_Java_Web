@@ -1,0 +1,86 @@
+@charset "UTF-8";
+	*{	padding:0;
+		margin:0;}
+	a{text-decoration: none;}
+	#learnmeList{
+		margin:0 auto;
+		overflow: hidden;
+		width:1500px;
+	}
+	#learnmeList #button{
+		float:right;
+	}
+	#learnmeList #place{
+		font-family: 'Cute Font', cursive;
+		font-size: 2em;
+		width:950px;
+		color : #c69cf8;
+		text-align: center;
+		position:relative;
+		top:270px;
+	}
+	#learnmeList #learnme{
+		float:left;
+		width:950px;
+		height:930px;
+		margin-top:80px;
+		margin-left:30px;
+	}
+		#learnmeList #learnme #writeAllow{
+			margin: 5px auto;
+			margin-bottom : 15px;
+			width: 99%;
+			background-color: #ffacac;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.4em;
+			border: 5px solid #ffbfbf;
+			border-radius: 50px;
+		}
+		#learnmeList #learnme #writeAllow tr .writelearnme{
+			width:100%;
+			text-align: center;
+		}
+		#learnmeList #learnme #writeAllow tr .writelearnme a{
+			color: white;
+		}
+		#learnmeList #learnme{
+			background-color: #ffd9d9;
+			border-radius: 20px;
+		}
+		#learnmeList #learnme #list{
+			margin:0 auto;
+			width:940px;
+		}
+		#learnmeList #learnme #list tr{
+			background-color: white;
+		}
+		#learnmeList #learnme #list #lbPic{
+			width:180px;
+			height:180px;
+			float:left;
+			text-align: center;
+			margin:0 auto;
+		}
+		#learnmeList #learnme #list tr td{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.2em;
+			text-align: center;
+		}
+		#learnList #learnme #list tr #none{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.2em;
+			width:930px;
+			height:300px;
+			line-height:300px;
+			text-align:center;
+		}
+		#learnmeList .paging{
+			text-align: center;
+			color: #fa8383;
+		}
+		#learnmeList .paging a{
+			text-align: center;
+			color: #ffacac;
+		}

@@ -1,0 +1,51 @@
+@charset "UTF-8";
+*{	padding:0;
+		margin:0;}
+a{text-decoration: none;}
+#deleteForm{
+	margin:0 auto;
+	overflow: hidden;
+	width:1500px;
+}
+	#deleteForm #InformDelete{
+		margin:140px auto;
+		border:10px solid #ffd9d9;
+		border-radius: 30px;
+		width:500px;
+		height:200px;
+		background-color: white;
+	}
+	#deleteForm #InformDelete th{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		width:150px;
+		height:50px;
+		text-align: center;
+	}
+	#deleteForm #InformDelete td{
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+		height:50px;
+	}
+	#deleteForm #InformDelete .DeleteCus{
+		width:300px;
+		height:20px;
+		border: 2px solid #ffbfbf;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+		text-align: center;
+	}
+	#deleteForm #InformDelete .dBtn{
+		margin:0 auto;
+		width:150px;
+		height:40px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		background-color: #ffacac;
+		color:white;
+		text-decoration: none;
+		border:0;
+		border: 5px solid #ffbfbf;
+		border-radius: 5px;
+	}

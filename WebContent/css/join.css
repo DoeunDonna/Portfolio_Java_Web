@@ -1,0 +1,65 @@
+@charset "UTF-8";
+*{	padding:0;
+		margin:0;}
+a{text-decoration: none;}
+#joinForm{
+	margin:0 auto;
+	overflow: hidden;
+	width:1500px;
+}
+	#joinForm #InformInput{
+		margin:100px auto;
+		border:10px solid #ffd9d9;
+		border-radius: 30px;
+		width:500px;
+		height:600px;
+		background-color: white;
+	}
+	#joinForm #InformInput #joinUs{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+	}
+	#joinForm #InformInput th{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		width:150px;
+	}
+	#joinForm #InformInput .joinCus{
+		width:250px;
+		height:20px;
+		border: 2px solid #ffbfbf;
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+	}
+	#joinForm #InformInput .joinGender{
+		width:250px;
+		height:40px;
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.3em;
+	}
+	#joinForm #InformInput .joinPhone{
+		width:70px;
+		height:20px;
+		border: 2px solid #ffbfbf;
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+	}
+	#joinForm #InformInput td{
+		text-align: center;
+	}
+	#joinForm #InformInput .jBtn{
+		margin:0 auto;
+		width:150px;
+		height:40px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		background-color: #ffacac;
+		color:white;
+		text-decoration: none;
+		border:0;
+		border: 5px solid #ffbfbf;
+		border-radius: 5px;
+	}

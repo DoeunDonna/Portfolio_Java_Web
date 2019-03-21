@@ -1,0 +1,167 @@
+@charset "UTF-8";
+*{	padding:0;
+	margin:0;
+	}
+a{text-decoration: none;}
+
+#ebContent_view{
+	margin:0 auto;
+	overflow: hidden;
+	width:1500px;
+}
+#ebContent_view #button{
+	float:right;
+}
+#ebContent_view #all{
+		float:left;
+		width:950px;
+		margin-top:80px;
+		margin-left:30px;
+		border:5px solid #ffd9d9;
+		border-radius: 50px;
+		padding:20px;
+}
+	#ebContent_veiw #content_view tr td{
+		margin:10px;
+	}
+	#ebContent_view #content_view #content .long{
+		background-color : #ffd9d9;
+		border-radius:50px;
+		width:450px;
+		height:20px;
+		padding:5px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+	}
+	#ebContent_view #content_view #content .middle{
+		background-color : #ffd9d9;
+		border-radius:50px;
+		width:250px;
+		height:20px;
+		padding:5px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+	}
+	#ebContent_view #content_view #content .small{
+		background-color : #ffd9d9;
+		border-radius:50px;
+		width:200px;
+		height:20px;
+		padding:5px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+	}
+	#ebContent_view #content_view tr .pic{
+		text-align: center;
+	}
+	#ebContent_view #content_view tr .ebCPic{	
+		width:700px;
+	}
+	#ebContent_view #content_view tr .view{
+		border:2px dashed #ffd9d9;
+		border-radius:15px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		color: #808080;
+		width:850px;
+		
+	}
+	#ebContent_view #content_view tr .Btn{
+		margin:0 auto;
+		width:150px;
+		height:40px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		background-color: #ffacac;
+		color:white;
+		text-decoration: none;
+		border:0;
+		border: 5px solid #ffbfbf;
+		border-radius: 5px;
+	}
+	#ebContent_view #content_view tr .conBtn{
+		width:200px;
+		height:150px;
+		text-align: center;
+		
+	}
+	#ebContent_view #reply{
+		float:left;
+		width:850px;
+		margin-top:80px;
+		margin-left:30px;
+		border:2px dashed #ffd9d9;
+		border-radius: 50px;
+		padding:20px;
+	}
+	#ebContent_view #reply #replier{
+		background-color : #ffd9d9;
+		border-radius:50px;
+		width:250px;
+		height:20px;
+		padding:5px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		text-align: center;
+	}
+	#ebContent_view #reply #replytext{
+		background-color : #ffd9d9;
+		border-radius:50px;
+		width:450px;
+		height:20px;
+		padding:5px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		text-align: center;
+	}
+	#ebContent_view #reply #replydate{
+		background-color : #ffd9d9;
+		border-radius:50px;
+		width:200px;
+		height:20px;
+		padding:5px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		text-align: center;
+	}
+	#ebContent_view #reply #cusNick{
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+	}
+	#ebContent_view #reply #cusDate{
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+	}
+	#ebContent_view #reply #replyText{
+		margin: 30px auto;
+	}
+	#ebContent_view #reply #replyText #form{
+		background-color : #ffd9d9;
+		border-radius:50px;
+		width:100px;
+		height:20px;
+		padding:5px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		text-align: center;
+	}
+	#ebContent_view #reply #replyText #write{
+		width:650px;
+		height:30px;
+		border: 2px solid #ffbfbf;
+	}
+	#ebContent_view #reply #replyText .Btn{
+		margin:0 auto;
+		width:100px;
+		height:40px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		background-color: #ffacac;
+		color:white;
+		text-decoration: none;
+		border:0;
+		border: 5px solid #ffbfbf;
+		border-radius: 5px;
+	}

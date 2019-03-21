@@ -1,0 +1,75 @@
+@charset "UTF-8";
+	*{	padding:0;
+		margin:0;}
+	a{text-decoration: none;}
+	#dessertInformList{
+		margin:0 auto;
+		overflow: hidden;
+		width:1500px;
+	}
+	#dessertInformList #button{
+		float:right;
+	}
+	#dessertInformList #dessertInform{
+		float:left;
+		width:950px;
+		height:930px;
+		margin-top:80px;
+		margin-left:30px;
+	}
+		#dessertInformList #dessertInform #writeAllow{
+			margin: 10px auto;
+			width: 100%;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.4em;
+			text-align: center;
+		}
+		#dessertInformList #dessertInform #writeAllow a{
+			color: #a579ff;
+		}
+		#dessertInformList #dessertInform #writeAllow tr .writedessertInform{
+			width:100%;
+			text-align: center;
+		}
+		#dessertInformList #dessertInform #writeAllow tr .writedessertInform a{
+			color: white;
+		}
+		#dessertInformList #dessertInform{
+			background-color: white;
+			border:5px solid #ffbfbf;
+			border-radius: 50px;
+		}
+		#dessertInformList #dessertInform #list{
+			margin:0 auto;
+		}
+		#dessertInformList #dessertInform #list tr{
+			background-color: white;
+		}
+		#dessertInformList #dessertInform #list #diPic{
+			width:180px;
+			height:180px;
+			float:left;
+		}
+		#dessertInformList #dessertInform #list #board{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.2em;
+			width:150px;
+		}
+		#dessertInformList #dessertInform #list tr #none{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.5em;
+			width:930px;
+			height:300px;
+			line-height:300px;
+			text-align:center;
+		}
+		#dessertInformList .paging{
+			text-align: center;
+			color: #fa8383;
+		}
+		#dessertInformList .paging a{
+			text-align: center;
+			color: #ffacac;
+		}

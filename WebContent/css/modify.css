@@ -1,0 +1,67 @@
+@charset "UTF-8";
+*{	padding:0;
+		margin:0;}
+a{text-decoration: none;}
+#modifyForm{
+	margin:0 auto;
+	overflow: hidden;
+	width:1500px;
+}
+	#modifyForm #cusModify{
+		margin:100px auto;
+		border:10px solid #ffd9d9;
+		border-radius: 30px;
+		width:500px;
+		height:600px;
+		background-color: white;
+	}
+	#modifyForm #cusModify #modify{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+	}
+	#modifyForm #cusModify th{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		width:150px;
+	}
+	#modifyForm #cusModify .modifyCus{
+		width:250px;
+		height:20px;
+		border: 2px solid #ffbfbf;
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+	}
+	#modifyForm #cusModify .modifyGender{
+		width:250px;
+		height:40px;
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.3em;
+	}
+	#modifyForm #cusModify .modifyPhone{
+		width:70px;
+		height:20px;
+		border: 2px solid #ffbfbf;
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+	}
+	#modifyForm #cusModify td{
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+	}
+	#modifyForm #cusModify .mBtn{
+		margin:0 auto;
+		width:150px;
+		height:40px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		background-color: #ffacac;
+		color:white;
+		text-decoration: none;
+		border:0;
+		border: 5px solid #ffbfbf;
+		border-radius: 5px;
+	}

@@ -1,0 +1,50 @@
+@charset "UTF-8";
+*{	padding:0;
+		margin:0;}
+a{text-decoration: none;}
+#informForm{
+	margin:0 auto;
+	overflow: hidden;
+	width:1500px;
+}
+	#informForm #cusInform{
+		margin:100px auto;
+		border:10px solid #ffd9d9;
+		border-radius: 30px;
+		width:500px;
+		height:600px;
+		background-color: white;
+		
+	}
+	#informForm #cusInform #Inform{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		width:100%;
+		height:30px;
+	}
+	#informForm #cusInform th{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		width:150px;
+	}
+	#informForm #cusInform td{
+		width:250px;
+		height:20px;
+		text-align: center;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+	}
+	
+	#informForm #cusInform .iBtn{
+		margin:0 auto;
+		width:150px;
+		height:40px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+		background-color: #ffacac;
+		color:white;
+		text-decoration: none;
+		border:0;
+		border: 5px solid #ffbfbf;
+		border-radius: 5px;
+	}

@@ -1,0 +1,83 @@
+@charset "UTF-8";
+	*{	padding:0;
+		margin:0;}
+	a{text-decoration: none;}
+	#eatmeList{
+		margin:0 auto;
+		overflow: hidden;
+		width:1500px;
+	}
+	#eatmeList #button{
+		float:right;
+	}
+	#eatmeList #place{
+		font-family: 'Cute Font', cursive;
+		font-size: 2em;
+		width:950px;
+		color : #c69cf8;
+		text-align: center;
+		position:relative;
+		top:270px;
+	}
+	#eatmeList #eatme{
+		float:left;
+		width:950px;
+		height:930px;
+		margin-top:80px;
+		margin-left:30px;
+	}
+		#eatmeList #eatme #writeAllow{
+			margin: 5px auto;
+			margin-bottom : 15px;
+			width: 99%;
+			background-color: #ffacac;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.4em;
+			border: 5px solid #ffbfbf;
+			border-radius: 50px;
+		}
+		#eatmeList #eatme #writeAllow tr .writeEatMe{
+			width:100%;
+			text-align: center;
+		}
+		#eatmeList #eatme #writeAllow tr .writeEatMe a{
+			color: white;
+		}
+		#eatmeList #eatme{
+			background-color: #ffd9d9;
+			border-radius: 20px;
+		}
+		#eatmeList #eatme #list{
+			margin:0 auto;
+		}
+		#eatmeList #eatme #list tr{
+			background-color: white;
+		}
+		#eatmeList #eatme #list #ebPic{
+			width:180px;
+			height:180px;
+			float:left;
+		}
+		#eatmeList #eatme #list tr td{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.2em;
+			width:150px;
+		}
+		#eatmeList #eatme #list tr #none{
+			color: #808080;
+			font-family: 'Cute Font', cursive;
+			font-size: 1.2em;
+			width:930px;
+			height:300px;
+			line-height:300px;
+			text-align:center;
+		}
+		#eatmeList .paging{
+			text-align: center;
+			color: #fa8383;
+		}
+		#eatmeList .paging a{
+			text-align: center;
+			color: #ffacac;
+		}

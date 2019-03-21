@@ -1,0 +1,49 @@
+@charset "UTF-8";
+*{	padding:0;
+		margin:0;}
+a{text-decoration: none;}
+#loginForm{
+	margin:0 auto;
+	overflow: hidden;
+	width:1500px;
+}
+	#loginForm #InformInput{
+		margin:140px auto;
+		border:10px solid #ffd9d9;
+		border-radius: 30px;
+		width:500px;
+		height:200px;
+		background-color: white;
+	}
+	#loginForm #InformInput th{
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		height:60px;
+	}
+	#loginForm #InformInput td{
+		text-align: center;
+	}
+	#loginForm #InformInput .loginCus{
+		width:300px;
+		height:20px;
+		border: 2px solid #ffbfbf;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.2em;
+		text-align: center;
+	}
+	#loginForm #InformInput #loginBtn{
+		height:70px;
+	}
+	#loginForm #InformInput .lBtn{
+		margin:0 auto;
+		width:150px;
+		height:40px;
+		font-family: 'Cute Font', cursive;
+		font-size: 1.4em;
+		background-color: #ffacac;
+		color:white;
+		text-decoration: none;
+		border:0;
+		border: 5px solid #ffbfbf;
+		border-radius: 5px;
+	}
