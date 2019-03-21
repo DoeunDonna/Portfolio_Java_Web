@@ -1,17 +1,17 @@
-±èµµÀº °³ÀÎ ÇÁ·ÎÁ§Æ® ¼Ò½º ÆÄÀÏµéÀÔ´Ï´Ù.
+ê¹€ë„ì€ ê°œì¸ í”„ë¡œì íŠ¸ ì†ŒìŠ¤ íŒŒì¼ë“¤ì…ë‹ˆë‹¤.
 
-- ¿©·¯ Á¾·ùÀÇ µğÀúÆ®¸¦ ¼Ò°³ÇÏ°í È¸¿ø°£ÀÇ Ä¿¹Â´ÏÆ¼¸¦ ÅëÇØ µğÀúÆ®¿¡ °üÇÑ ¿©·¯ Á¤º¸¸¦ °øÀ¯ ¹× °ü¸®ÇÒ ¼ö ÀÖ´Â µğÀúÆ® Ä¿¹Â´ÏÆ¼ °ü¸® ½Ã½ºÅÛ
+- ì—¬ëŸ¬ ì¢…ë¥˜ì˜ ë””ì €íŠ¸ë¥¼ ì†Œê°œí•˜ê³  íšŒì›ê°„ì˜ ì»¤ë®¤ë‹ˆí‹°ë¥¼ í†µí•´ ë””ì €íŠ¸ì— ê´€í•œ ì—¬ëŸ¬ ì •ë³´ë¥¼ ê³µìœ  ë° ê´€ë¦¬í•  ìˆ˜ ìˆëŠ” ë””ì €íŠ¸ ì»¤ë®¤ë‹ˆí‹° ê´€ë¦¬ ì‹œìŠ¤í…œ
 
-ÇÁ·ÎÁ§Æ®¸í	: I¡¯M A DESSERT (µğÀúÆ® Ä¿¹Â´ÏÆ¼)
-Âü¿©ÀÎ¿ø	: 1¸í
-±â°£		: 2019.03.06 ~ 2019.03.15
-°³¹ßÈ¯°æ	: OS	-	Windows 7 Professional K
-		 WAS	- 	Apache Tomcat 8.5
-		DBMS	- 	Oracle 11g Express Edition
-		Language-	Java Platform 8 , JSP & Servlet
-		Model	-	MVC (Model 2)
-		Web	-	HTML5, CSS/CSS3, JavaScript
-		Tool	-	Eclipse IDE for Java EE Developers, Sqldeveloper
-		eXERD (E-R Modeling Tool), Start UML
-		Open Source	jQuery v3.2.1, jQuery UI v.1.12.1, cos-26Dec2008
+í”„ë¡œì íŠ¸ëª…	: Iâ€™M A DESSERT (ë””ì €íŠ¸ ì»¤ë®¤ë‹ˆí‹°)
+ì°¸ì—¬ì¸ì›	: 1ëª…
+ê¸°ê°„		: 2019.03.06 ~ 2019.03.15
+ê°œë°œí™˜ê²½	: OS	     -	     Windows 7 Professional K
+	     WAS	- 	Apache Tomcat 8.5
+	     DBMS	- 	Oracle 11g Express Edition
+	     Language   -	Java Platform 8 , JSP & Servlet
+	     Model	-	MVC (Model 2)
+	     Web	-	HTML5, CSS/CSS3, JavaScript
+	     Tool	-	Eclipse IDE for Java EE Developers, Sqldeveloper
+	     eXERD (E-R Modeling Tool), Start UML
+	     Open Source	jQuery v3.2.1, jQuery UI v.1.12.1, cos-26Dec2008
 
